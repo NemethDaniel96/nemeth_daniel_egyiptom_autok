@@ -1,0 +1,40 @@
+#hatter {
+    background-color: rgb(220, 188, 105);
+    margin: auto;
+    max-width: 650px;
+
+}
+
+body {
+    background-image:
+        url(kepek/egyiptomihatter.jpg);
+    background-repeat: repeat;
+    background-position: center;
+    -webkit-text-fill-color: brown;
+}
+
+p {
+    text-align: justify;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    margin-bottom: 5px;
+
+}
+
+#nilus {
+    margin-left: 10px;
+    float: right;
+    border: 1px dashed brown;
+    padding: 5px;
+}
+
+#karnak {
+    margin-right: 10px;
+    float: left;
+    border: 1px dashed brown;
+    padding: 5px;
+}
